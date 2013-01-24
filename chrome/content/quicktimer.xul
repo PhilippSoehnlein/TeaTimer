@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!--
 	TeaTimer: A Firefox extension that protects you from oversteeped tea.
-	Copyright (C) 2011 Philipp Söhnlein
+	Copyright (C) 2008-2013 Philipp Söhnlein
 
 	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License version 3 as 
+	it under the terms of the GNU General Public License version 3 as
 	published by the Free Software Foundation.
 
 	This program is distributed in the hope that it will be useful,
@@ -21,14 +21,14 @@
 <window title="&quicktimer.windowTitle;" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
     <script type="application/x-javascript" src="chrome://teatimer/content/teaTimerCommon.js" />
     <script type="application/x-javascript" src="chrome://teatimer/content/quicktimer.js" />
-    
+
     <vbox>
 		<label control="teaTimer-qtTime" value="&quicktimer.countdownTime.label;" />
         <textbox id="teaTimer-qtTime" maxlength="6" accesskey="&quicktimer.countdownTime.accesskey;" />
     </vbox>
-    
+
     <checkbox id="teaTimer-qtChkStartCountdown" checked="true" label="&quicktimer.startCountdownRightNow.label;" accesskey="&quicktimer.startCountdownRightNow.accesskey;" />
-    
+
     <hbox align="right">
         <button label="&quicktimer.buttons.cancel.label;" id="teaTimer-qtBtnCancel" accesskey="&quicktimer.buttons.cancel.accesskey;" />
         <button label="&quicktimer.buttons.ok.label;" id="teaTimer-qtBtnOk" accesskey="&quicktimer.buttons.ok.accesskey;" />

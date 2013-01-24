@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!--
 	TeaTimer: A Firefox extension that protects you from oversteeped tea.
-	Copyright (C) 2011 Philipp Söhnlein
+	Copyright (C) 2008-2013 Philipp Söhnlein
 
 	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License version 3 as 
+	it under the terms of the GNU General Public License version 3 as
 	published by the Free Software Foundation.
 
 	This program is distributed in the hope that it will be useful,
@@ -20,13 +20,13 @@
 	<script type="application/x-javascript" src="chrome://teatimer/content/teaTimerCommon.js" />
 	<script type="application/x-javascript" src="chrome://teatimer/content/teaTimerTeaDB.js" />
 	<script type="application/x-javascript" src="chrome://teatimer/content/teatimer.js" />
-	
+
     <toolbar id="addon-bar">
         <toolbaritem id="teatimer-box">
-            <box id="teatimer-countdownbox"> <!-- this box is necessary, because #teatimer-countdown can blink using "visibility: hidden". Hidden elements don't recieve click events --> 
+            <box id="teatimer-countdownbox"> <!-- this box is necessary, because #teatimer-countdown can blink using "visibility: hidden". Hidden elements don't recieve click events -->
                 <label id="teatimer-countdown" value="TeaTimer" />
             </box>
-                
+
             <toolbarbutton id="teatimer-toolbarbutton" label="TeaTimer" type="menu" image="chrome://teatimer/skin/icon-inactive.png" class="toolbarbutton-1 chromeclass-toolbar-additional" orient="horizontal">
                 <menupopup id="teatimer-contextMenu" position="before_end">
                     <menuitem id="teatimer-showModeIconAndTime" label="&main.contextMenu.showIconAndTime;" name="teatimer-viewMode" value="iconAndText" type="radio" />
@@ -41,7 +41,7 @@
             </toolbarbutton>
         </toolbaritem>
 	</toolbar>
-    
+
 	<!--<statusbar id="status-bar">-->
 	<!--	<statusbarpanel id="teatimer-panel" context="teatimer-contextMenu">-->
 	<!--		<box id="teatimer-box"> --> <!-- This extra box is needed, because FF<3 can not handle CSS background images for statusbarpanel elements -->

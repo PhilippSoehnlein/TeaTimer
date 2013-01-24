@@ -1,9 +1,9 @@
 /*
 	TeaTimer: A Firefox extension that protects you from oversteeped tea.
-	Copyright (C) 2011 Philipp Söhnlein
+	Copyright (C) 2008-2013 Philipp Söhnlein
 
 	This program is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License version 3 as 
+	it under the terms of the GNU General Public License version 3 as
 	published by the Free Software Foundation.
 
 	This program is distributed in the hope that it will be useful,
@@ -17,7 +17,7 @@
 function teaTimerQuickTimer()
 {
     const common=new teaTimerCommon();
-    
+
     this.init=function()
     {
         document.getElementById("teaTimer-qtTime").focus();
@@ -26,7 +26,7 @@ function teaTimerQuickTimer()
         document.getElementById("teaTimer-qtBtnCancel").addEventListener("command",teaTimerQtInstance.cancelButtonCommand,false);
         document.getElementById("teaTimer-qtBtnOk").addEventListener("command",teaTimerQtInstance.okButtonCommand,false);
     }
-    
+
     this.documentKeypress=function(event)
     {
         if(event.keyCode===27) //escape
@@ -34,7 +34,7 @@ function teaTimerQuickTimer()
             window.close();
         }
     }
-    
+
     this.timeKeypress=function(event)
     {
 	if(event.keyCode===13) //enter
@@ -42,17 +42,17 @@ function teaTimerQuickTimer()
             handleTimeInput();
         }
     }
-    
+
     this.okButtonCommand=function()
     {
         handleTimeInput();
     }
-    
+
     var handleTimeInput=function()
     {
 	var ok=false;
         var input=document.getElementById("teaTimer-qtTime").value;
-	
+
 	try
 	{
             var time=common.validateEnteredTime(input);
@@ -78,17 +78,17 @@ function teaTimerQuickTimer()
             {
                 errorMsg=common.getString("quicktimer.validate.timeInputInWrongFormat");
             }
-	      
+
             errorMsg+="\n"+common.getString("quicktimer.validate.timeInputAdvice");
             alert(errorMsg);
         }
-        
+
 	if(ok)
 	{
 	    window.close();
 	}
     }
-    
+
     this.cancelButtonCommand=function()
     {
         window.close();
