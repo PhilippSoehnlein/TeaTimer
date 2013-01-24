@@ -34,6 +34,8 @@
 					locale/en-US/teatimer.properties
                     locale/de/teatimer.dtd
 					locale/de/teatimer.properties
+                    locale/cs-CZ/teatimer.dtd
+					locale/cs-CZ/teatimer.properties
                     locale/fr-FR/teatimer.dtd
 					locale/fr-FR/teatimer.properties
                     locale/sv-SE/teatimer.dtd
