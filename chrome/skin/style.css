@@ -28,3 +28,9 @@
 {
 	display: none;
 }
+#teatimer-box
+{
+    -moz-box-align: center;
+    -moz-box-orient: horizontal;
+    -moz-box-pack: center;
+}
