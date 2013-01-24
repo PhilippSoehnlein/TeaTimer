@@ -19,7 +19,7 @@
         <em:translator>Turkish locale by alfapegasi and Ersen Yoldac (babelzilla.org)</em:translator>
         <!--<em:translator>Portuguese / Brasilian locale by petruc (babelzilla.org)</em:translator>-->
         <!--<em:translator>Belarusian locale by Drive DRKA (babelzilla.org)</em:translator>-->
-        <!--<em:translator>Czech  locale by Kirklan (babelzilla.org)</em:translator>-->
+        <em:translator>Czech  locale by Kirklan and ondrejd (babelzilla.org)</em:translator>
         <em:translator>Swedish locale by Lakrits (babelzilla.org)</em:translator>
         <em:translator>Chinese locale by yfdyh000 and yliu (babelzilla.org)</em:translator>
         <em:translator>Serbian locale by DakSrbija and Rancher (babelzilla.org)</em:translator>
@@ -45,7 +45,7 @@
                         <em:translator>Turkish locale by alfapegasi and Ersen Yoldac (babelzilla.org)</em:translator>
                         <!--<em:translator>Portuguese / Brasilian locale by petruc (babelzilla.org)</em:translator>-->
                         <!--<em:translator>Belarusian locale by Drive DRKA (babelzilla.org)</em:translator>-->
-                        <!--<em:translator>Czech locale by Kirklan (babelzilla.org)</em:translator>-->
+                        <em:translator>Czech locale by Kirklan and ondrejd (babelzilla.org)</em:translator>
                         <em:translator>Swedish locale by Lakrits (babelzilla.org)</em:translator>
                         <em:translator>Chinese locale by yfdyh000 and yliu (babelzilla.org)</em:translator>
                         <em:translator>Serbian locale by DakSrbija and Rancher (babelzilla.org)</em:translator>
@@ -73,7 +73,7 @@
                         <em:translator>Türkische Lokalisierung von alfapegasi und Ersen Yoldac (babelzilla.org)</em:translator>
                         <!--<em:translator>Portugiesische / brasilianische Lokalisierung von petruc (babelzilla.org)</em:translator>-->
                         <!--<em:translator>Weißrussische Lokalisierung von Drive DRKA (babelzilla.org)</em:translator>-->
-                        <!--<em:translator>Tschechische Lokalisierung von Kirklan (babelzilla.org)</em:translator>-->
+                        <em:translator>Tschechische Lokalisierung von Kirklan und ondrejd (babelzilla.org)</em:translator>
                         <em:translator>Swedische Lokalisierung von Lakrits (babelzilla.org)</em:translator>
                         <em:translator>Chinesische Lokalisierung von yfdyh000 und yliu (babelzilla.org)</em:translator>
                         <em:translator>Serbische Lokalisierung von DakSrbija und Rancher (babelzilla.org)</em:translator>
@@ -100,7 +100,7 @@
                         <em:translator>Localisation turce de alfapegasi et Ersen Yoldac (babelzilla.org)</em:translator>
                         <!--<em:translator>Localisation portugais / brésilien de petruc (babelzilla.org)</em:translator>-->
                         <!--<em:translator>Localisation biélorusse de Drive DRKA (babelzilla.org)</em:translator>-->
-                        <!--<em:translator>Localisation tchèque / brésilien de Kirklan (babelzilla.org)</em:translator>-->
+                        <em:translator>Localisation tchèque / brésilien de Kirklan et ondrejd (babelzilla.org)</em:translator>
                         <em:translator>Localisation suédoise de Lakrits (babelzilla.org)</em:translator>
                         <em:translator>Localisation mandarin de yfdyh000 et yliu (babelzilla.org)</em:translator>
                         <em:translator>Localisation serbe de et DakSrbija Rancher (babelzilla.org)</em:translator>

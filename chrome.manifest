@@ -27,7 +27,7 @@ locale			teatimer	fr-FR 								jar:chrome/teaTimer.jar!/locale/fr-FR/
 locale			teatimer	tr-TR 								jar:chrome/teaTimer.jar!/locale/tr-TR/
 #locale			teatimer	pt-BR 								jar:chrome/teaTimer.jar!/locale/pt-BR/
 #locale			teatimer	be-BY 								jar:chrome/teaTimer.jar!/locale/be-BY/
-#locale			teatimer	cs-CZ 								jar:chrome/teaTimer.jar!/locale/cs-CZ/
+locale			teatimer	cs-CZ 								jar:chrome/teaTimer.jar!/locale/cs-CZ/
 locale			teatimer	sv-SE 								jar:chrome/teaTimer.jar!/locale/sv-SE/
 locale			teatimer	zh-CN 								jar:chrome/teaTimer.jar!/locale/zh-CN/
 locale			teatimer	sr 								    jar:chrome/teaTimer.jar!/locale/sr/
@@ -39,7 +39,7 @@ locale			teatimer	sr 								    jar:chrome/teaTimer.jar!/locale/sr/
 #locale			teatimer	tr-TR								chrome/locale/tr-TR/
 ##locale			teatimer	pt-BR								chrome/locale/pt-BR/
 ##locale			teatimer	be-BY								chrome/locale/be-BY/
-##locale			teatimer	cs-CZ								chrome/locale/cs-CZ/
+#locale			teatimer	cs-CZ								chrome/locale/cs-CZ/
 #locale			teatimer	sv-SE								chrome/locale/sv-SE/
 #locale			teatimer	zh-CN								chrome/locale/zh-CN/
 #locale			teatimer	sr  								chrome/locale/sr/
