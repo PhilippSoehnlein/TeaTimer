@@ -7,6 +7,7 @@
 <!ENTITY options.windowTitle "TeaTimer - Možnosti">
 <!ENTITY options.tabs.teavarities "Druhy čaje">
 <!ENTITY options.tabs.alerts "Výstrahy">
+
 <!ENTITY options.varities.addANewTea "Přidat nový &quot;čaj&quot;">
 <!ENTITY options.varities.newTea.name.label "&quot;Čaj&quot;">
 <!ENTITY options.varities.newTea.time.label "Čas">
@@ -36,12 +37,15 @@
 <!ENTITY options.alerts.soundAlerts.startSound.preview "Náhled">
 <!ENTITY options.alerts.soundAlerts.endSound.preview "Náhled">
 <!ENTITY options.alerts.soundAlerts.sounds.none "bez výstrah">
+<!ENTITY options.alerts.soundAlerts.sounds.systembeep "Zvukové upozornění">
 <!ENTITY options.alerts.soundAlerts.sounds.cup "Hrnek">
 <!ENTITY options.alerts.soundAlerts.sounds.eggtimer "Časovač na vejce">
 <!ENTITY options.alerts.soundAlerts.sounds.pour "Lití">
 <!ENTITY options.alerts.soundAlerts.sounds.fanfare "Fanfára">
 <!ENTITY options.alerts.soundAlerts.sounds.slurp "Srkání">
 <!ENTITY options.alerts.soundAlerts.sounds.speech "Hlasové upozornění">
+<!ENTITY options.alerts.soundAlerts.sounds.custom "Vlastní…">
+
 <!ENTITY options.buttons.ok.label "OK">
 <!ENTITY options.buttons.ok.accesskey "o">
 <!ENTITY options.buttons.cancel.label "Storno">
