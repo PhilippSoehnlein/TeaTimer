@@ -7,6 +7,7 @@
 <!ENTITY options.windowTitle "Options de l'extension TeaTimer">
 <!ENTITY options.tabs.teavarities "Variétés de thé">
 <!ENTITY options.tabs.alerts "Avertissements">
+
 <!ENTITY options.varities.addANewTea "Ajouter un nouveau thé">
 <!ENTITY options.varities.newTea.name.label "Thé">
 <!ENTITY options.varities.newTea.time.label "Temps">
@@ -36,6 +37,7 @@
 <!ENTITY options.alerts.soundAlerts.startSound.preview "Aperçu">
 <!ENTITY options.alerts.soundAlerts.endSound.preview "Aperçu">
 <!ENTITY options.alerts.soundAlerts.sounds.none "Aucun">
+<!ENTITY options.alerts.soundAlerts.sounds.systembeep "Bip système">
 <!ENTITY options.alerts.soundAlerts.sounds.cup "Tasse">
 <!ENTITY options.alerts.soundAlerts.sounds.eggtimer "Minuteur">
 <!ENTITY options.alerts.soundAlerts.sounds.pour "Verser">
@@ -43,6 +45,7 @@
 <!ENTITY options.alerts.soundAlerts.sounds.slurp "Siroter">
 <!ENTITY options.alerts.soundAlerts.sounds.speech "Voix">
 <!ENTITY options.alerts.soundAlerts.sounds.custom "Propre fichier son...">
+
 <!ENTITY options.buttons.ok.label "OK">
 <!ENTITY options.buttons.ok.accesskey "o">
 <!ENTITY options.buttons.cancel.label "Annuler">
