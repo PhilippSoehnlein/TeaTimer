@@ -37,6 +37,7 @@
 <!ENTITY options.alerts.soundAlerts.startSound.preview "预览">
 <!ENTITY options.alerts.soundAlerts.endSound.preview "预览">
 <!ENTITY options.alerts.soundAlerts.sounds.none "无">
+<!ENTITY options.alerts.soundAlerts.sounds.systembeep "系统响铃">
 <!ENTITY options.alerts.soundAlerts.sounds.cup "杯子">
 <!ENTITY options.alerts.soundAlerts.sounds.eggtimer "煮蛋计时器">
 <!ENTITY options.alerts.soundAlerts.sounds.pour "倒">
