@@ -119,5 +119,5 @@
   <RDF:Description RDF:about="rdf:#$rdYLa2"
                    em:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"
                    em:minVersion="4.0b8"
-                   em:maxVersion="10.*" />
+                   em:maxVersion="19.*" />
 </RDF:RDF>
